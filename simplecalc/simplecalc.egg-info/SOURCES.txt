@@ -1,0 +1,5 @@
+setup.py
+simplecalc.egg-info/PKG-INFO
+simplecalc.egg-info/SOURCES.txt
+simplecalc.egg-info/dependency_links.txt
+simplecalc.egg-info/top_level.txt
