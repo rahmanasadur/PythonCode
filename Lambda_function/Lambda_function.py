@@ -33,3 +33,10 @@ print(n3(45))
 n4 = lambda a : 'even' if a%2==0 else 'odd'
 print(n4(3))
 
+def myfunc(n):
+    x = lambda a : a * n
+    return x
+
+mydoubler = myfunc(2)
+
+print(mydoubler(11))
